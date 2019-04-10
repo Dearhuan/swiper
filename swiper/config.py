@@ -8,3 +8,11 @@ YZX_SMS_PARAMS = {
      "param":None,
      "mobile":None,
 }
+
+# 需要填写你的 Access Key 和 Secret Key
+QINIU_ACCESS_KEY = 'omsZgpencslXzRSRDnVD3lvA6gBt0I_KdSUEwWhQ'
+QINIU_SECRET_KEY = '8SbPW1zlIrJx8I813RuDyHazbzDscMplDb_pCSg8'
+# 要上传的空间
+QINIU_BUCKET_NAME = 'swsw2'
+
+QINIU_BUCKET_URL = 'http://ppqjgo3rv.bkt.clouddn.com'
